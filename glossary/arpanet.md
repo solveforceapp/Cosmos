@@ -2,22 +2,24 @@
 
 ## Definition
 
-ARPANET (Advanced Research Projects Agency Network) was the pioneering packet-switched network developed in the late 1960s by the United States Department of Defense. ARPANET laid the groundwork for the modern internet, connecting research institutions and government agencies in a revolutionary experiment in digital communication.
+ARPANET (Advanced Research Projects Agency Network) was the world’s first operational packet-switching network and the direct predecessor of the modern internet. Developed in the late 1960s by the United States Department of Defense’s Advanced Research Projects Agency (ARPA), ARPANET was designed to connect research institutions, universities, and government agencies, enabling them to share information and computing resources in a revolutionary new way.
 
-## How It Works
+## How It Worked
 
-ARPANET used packet switching, a method of breaking data into small packets and routing them independently across the network. This approach improved efficiency, reliability, and scalability compared to traditional circuit-switched networks. ARPANET also introduced protocols like TCP/IP, which became the foundation of the internet.
+ARPANET introduced the concept of packet switching, where data is broken into small packets that travel independently across the network and are reassembled at their destination. This method was more efficient and resilient than traditional circuit-switched networks, allowing for dynamic routing and robust communication even if parts of the network failed. ARPANET also pioneered the use of protocols like NCP (Network Control Protocol) and later TCP/IP, which became the foundation of the global internet.
 
 ## Real-World Application
 
-ARPANET connected universities, research labs, and military sites, enabling email, file sharing, and remote access to computers. It fostered collaboration, innovation, and the birth of online communities. ARPANET was decommissioned in 1990, but its legacy lives on in every aspect of the internet.
-
-Imagine a digital highway system, connecting distant cities and enabling the free flow of information.
+ARPANET’s first message was sent in 1969 between UCLA and Stanford. Over time, the network grew to include dozens of sites, supporting email, file transfers, and remote access to computers. Researchers could collaborate across vast distances, accelerating scientific discovery and innovation. The network’s decentralized design inspired the architecture of today’s internet, supporting everything from social media to cloud computing.
 
 ## Entertaining Example
 
-Picture a group of scientists building a network of tin-can telephones, stretching across the country, allowing them to share discoveries and ideas in real time.
+Imagine a group of scientists stringing together a web of tin-can telephones across the country, each can representing a university or lab. As they talk, they invent new ways to pass messages, route calls, and keep the conversation going even if a string breaks. That’s the spirit of ARPANET—creative, resilient, and always evolving.
+
+## Symbolism and Legacy
+
+ARPANET is often called the “mother of the internet.” Its success demonstrated the power of open standards, collaboration, and distributed systems. The project was decommissioned in 1990, but its legacy lives on in every email sent, website visited, and video streamed today.
 
 ## Why It Matters
 
-ARPANET was the spark that ignited the internet revolution. Its innovations continue to shape the way we communicate, learn, and connect today.
+ARPANET was the spark that ignited the digital revolution. It transformed how we communicate, learn, and connect, laying the groundwork for the interconnected world we inhabit now.

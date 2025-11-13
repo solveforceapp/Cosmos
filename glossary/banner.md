@@ -6,18 +6,16 @@ A banner is a message or notification displayed to users when they connect to a 
 
 ## How It Works
 
-System administrators configure banners on servers, routers, firewalls, and other devices. Banners may display system status, maintenance schedules, or security policies. Legal banners inform users of monitoring, consent, or acceptable use, supporting compliance and accountability.
+System administrators configure banners on servers, routers, firewalls, and other devices. Banners may display system status, maintenance schedules, or security policies. Legal banners inform users of monitoring, consent, or acceptable use, supporting compliance and accountability. Banners can be static (always displayed) or dynamic (changing based on conditions or user roles).
 
 ## Real-World Application
 
-Banners are used in corporate networks, government systems, and cloud services. They help prevent unauthorized access, communicate important updates, and protect organizations from liability. Security audits often require banners to be in place.
-
-Imagine a sign at the entrance to a building, letting visitors know the rules before they enter.
+Banners are used in corporate networks, government systems, and cloud services. They help prevent unauthorized access, communicate important updates, and protect organizations from liability. Security audits often require banners to be in place. In web applications, banners may announce new features, maintenance windows, or policy changes.
 
 ## Entertaining Example
 
-Picture a talking doormat that greets you with a message every time you step inside, reminding you to wipe your feet and behave.
+Imagine a sign at the entrance to a building, letting visitors know the rules before they enter. Or picture a talking doormat that greets you with a message every time you step inside, reminding you to wipe your feet and behave.
 
 ## Why It Matters
 
-Banners set the tone for digital interactions, promoting transparency, security, and responsible use.
+Banners set the tone for digital interactions, promoting transparency, security, and responsible use. They are a simple but powerful tool for communication and compliance.
