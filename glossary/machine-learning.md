@@ -1,0 +1,3 @@
+# Machine Learning
+
+A subset of artificial intelligence that enables systems to learn from data, identify patterns, and make decisions with minimal human intervention.
