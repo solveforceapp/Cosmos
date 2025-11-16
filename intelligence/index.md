@@ -63,3 +63,9 @@ Intelligence manifests as:
 Intelligence is the engine of progress, the source of meaning, and the key to understanding the cosmos.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

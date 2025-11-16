@@ -21,3 +21,9 @@ Picture a superhero insurance agent who swoops in after a cyberattack, helping y
 ## Why It Matters
 
 Cyber insurance is an essential tool for managing the financial impact of cyber threats in a connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

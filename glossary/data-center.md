@@ -21,3 +21,9 @@ Picture a high-tech warehouse where robots manage endless rows of blinking machi
 ## Why It Matters
 
 Data centers are the backbone of the digital economy, powering everything from emails to streaming movies.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a team of robots repairing a broken bridge in real time, ensuring the pa
 ## Why It Matters
 
 Autoreconfiguration enhances resilience, reduces maintenance costs, and supports the reliability demanded by today’s digital infrastructure.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a notary who certifies every document, guaranteeing its authenticity and
 ## Why It Matters
 
 Data integrity is the foundation of reliable systems and informed decisions.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

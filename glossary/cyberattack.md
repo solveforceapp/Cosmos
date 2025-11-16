@@ -21,3 +21,9 @@ Picture a team of hackers in a movie, racing against the clock to outsmart secur
 ## Why It Matters
 
 Cyberattacks are a constant threat in the digital world, making robust defenses and awareness essential for everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

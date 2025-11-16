@@ -19,3 +19,9 @@ Imagine a vigilant guard at the entrance to a castle, checking every visitor’s
 ## Why It Matters
 
 Firewalls are the first line of defense in cybersecurity, protecting data, privacy, and operations.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

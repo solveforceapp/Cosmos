@@ -21,3 +21,9 @@ Picture a magician who rewrites the script for a play before the actors arrive, 
 ## Why It Matters
 
 Boot record infectors highlight the importance of securing the earliest stages of system startup. They remind us that security must begin before the operating system even loads.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

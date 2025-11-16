@@ -21,3 +21,9 @@ Picture a superhero costume with detachable gadgets and upgrades, letting you po
 ## Why It Matters
 
 Bolt-ons empower users to personalize their services, driving innovation and satisfaction in competitive markets.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

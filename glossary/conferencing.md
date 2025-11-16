@@ -21,3 +21,9 @@ Picture a roundtable where every seat is filled, no matter how far apart the par
 ## Why It Matters
 
 Conferencing connects people, ideas, and opportunities, making collaboration possible across any distance.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

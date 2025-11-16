@@ -19,3 +19,9 @@ Imagine a personalized license plate for your car, making it easy to find and re
 ## Why It Matters
 
 Domains are the foundation of digital identity and presence. They enable discovery, trust, and connection online.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

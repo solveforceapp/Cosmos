@@ -21,3 +21,9 @@ Picture a sturdy tunnel where messages travel safely, shielded from storms and e
 ## Why It Matters
 
 Coaxial cables are the backbone of many communication systems, ensuring reliable, high-quality signal transmission.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

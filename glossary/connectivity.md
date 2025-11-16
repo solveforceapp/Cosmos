@@ -21,3 +21,9 @@ Picture a digital handshake that instantly connects you to friends, services, an
 ## Why It Matters
 
 Connectivity is the lifeblood of the digital age, driving innovation and opportunity everywhere.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

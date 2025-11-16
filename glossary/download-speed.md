@@ -19,3 +19,9 @@ Imagine filling a bucket with water—the wider the pipe, the faster the bucket 
 ## Why It Matters
 
 Download speed shapes user experience, satisfaction, and productivity in the digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

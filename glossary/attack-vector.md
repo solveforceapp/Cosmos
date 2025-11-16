@@ -21,3 +21,9 @@ Picture a spy sneaking into a fortress through a secret tunnel, bypassing the ma
 ## Why It Matters
 
 Recognizing and defending against attack vectors is key to protecting digital assets and maintaining trust in technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

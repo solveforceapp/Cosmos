@@ -21,3 +21,9 @@ Picture a magic book where the illustrations move, characters talk, and the stor
 ## Why It Matters
 
 Active content is essential for modern web experiences. It enables innovation, personalization, and real-time interaction. As web technologies evolve, balancing the power of active content with robust security remains a key challenge for developers and users alike.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

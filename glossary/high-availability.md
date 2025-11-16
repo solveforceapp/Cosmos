@@ -19,3 +19,9 @@ Imagine a relay race with backup runners always ready to take over, or a restaur
 ## Why It Matters
 
 High availability supports business continuity, customer satisfaction, and trust in digital services.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

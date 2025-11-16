@@ -44,3 +44,9 @@ The glossary provides canonical definitions for key terms used throughout the CO
 The glossary is the semantic backbone of the knowledge base, ensuring clarity and consistency across all content.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

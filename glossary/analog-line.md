@@ -21,3 +21,9 @@ Picture a vintage radio show, broadcast over crackling wires, connecting listene
 ## Why It Matters
 
 Analog lines are a testament to the evolution of communication technology. Understanding their role helps us appreciate the advances that have shaped the modern, connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

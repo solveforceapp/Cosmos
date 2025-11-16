@@ -21,3 +21,9 @@ Picture a central train station where all the lines meet, making it possible to 
 ## Why It Matters
 
 Core networks are the foundation of the digital world, enabling seamless communication and innovation.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

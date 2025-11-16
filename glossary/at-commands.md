@@ -21,3 +21,9 @@ Picture a secret code that lets you unlock hidden features and control your gadg
 ## Why It Matters
 
 AT commands are the universal language of modem control, enabling flexible, programmable communication in countless applications.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

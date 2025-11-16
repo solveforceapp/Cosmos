@@ -21,3 +21,9 @@ Picture a secret passage in a castle, letting you move between rooms without bei
 ## Why It Matters
 
 Cross-connects are the backbone of modern data centers, enabling fast, secure, and scalable digital ecosystems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

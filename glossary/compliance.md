@@ -21,3 +21,9 @@ Picture a chef following a secret recipe to the letter, ensuring every dish meet
 ## Why It Matters
 
 Compliance builds trust, protects stakeholders, and supports sustainable business growth.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

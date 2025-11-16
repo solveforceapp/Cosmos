@@ -55,3 +55,9 @@ Cybernetics studies how systems regulate themselves, adapt, and communicate. It 
 Cybernetics provides the language and tools to understand, design, and govern complex systems in the cosmos.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

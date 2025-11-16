@@ -21,3 +21,9 @@ Picture a detective piecing together clues from mountains of evidence to solve a
 ## Why It Matters
 
 Data mining turns raw data into actionable knowledge, driving smarter decisions.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

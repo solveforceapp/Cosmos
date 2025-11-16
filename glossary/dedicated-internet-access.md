@@ -19,3 +19,9 @@ Imagine having your own private highway to the internet, with no traffic jams or
 ## Why It Matters
 
 DIA ensures business continuity, productivity, and security. It is essential for organizations that depend on reliable, high-speed connectivity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

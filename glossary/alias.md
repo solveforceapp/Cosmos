@@ -21,3 +21,9 @@ Picture a magician who goes by "The Great Illusionist" instead of their real nam
 ## Why It Matters
 
 Aliases are simple tools with big impact. They streamline workflows, enhance security, and make technology more accessible to everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

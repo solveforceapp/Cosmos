@@ -19,3 +19,9 @@ Imagine a security guard who not only checks the address on every package but al
 ## Why It Matters
 
 DPI is a powerful tool for network management and security, but it must be balanced with privacy and ethical considerations.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

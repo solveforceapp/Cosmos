@@ -21,3 +21,9 @@ Picture a carnival where each booth offers a different game or prize, but you ha
 ## Why It Matters
 
 ActiveX played a key role in the evolution of web interactivity, but its security challenges taught the industry valuable lessons. Today, developers strive for rich user experiences without compromising safety, building on the foundation that technologies like ActiveX helped establish.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

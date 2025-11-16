@@ -21,3 +21,9 @@ Picture a ship’s captain steering through stormy seas, making course correctio
 ## Why It Matters
 
 Change management empowers organizations to evolve, innovate, and thrive in a rapidly changing world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

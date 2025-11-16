@@ -19,3 +19,9 @@ Imagine a chef who tastes and adjusts a dish right in the kitchen, instead of se
 ## Why It Matters
 
 Edge computing enables faster, smarter, and more efficient systems. It supports innovation in AI, IoT, and automation, making technology more responsive and resilient.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

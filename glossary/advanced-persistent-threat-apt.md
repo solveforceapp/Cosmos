@@ -21,3 +21,9 @@ Picture a spy movie where the villain infiltrates a high-security facility, blen
 ## Why It Matters
 
 APTs represent the cutting edge of cyber threats. They challenge organizations to stay vigilant, invest in advanced defenses, and foster a culture of security awareness. Understanding APTs is crucial for protecting valuable assets in an increasingly connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

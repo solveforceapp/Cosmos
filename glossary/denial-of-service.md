@@ -19,3 +19,9 @@ Imagine a single prankster repeatedly pressing a doorbell until the homeowner ca
 ## Why It Matters
 
 DoS attacks threaten the reliability and trustworthiness of digital services. Awareness and prevention are key to maintaining uptime and user confidence.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

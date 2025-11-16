@@ -24,3 +24,9 @@ Edge computing is a symbol of decentralization, empowerment, and innovation. It 
 ## Conclusion
 
 Edge computing is the enabler of real-time, distributed intelligence. It is the principle that connects, orchestrates, and empowers systems at the edge of the network. In the Cosmos framework, edge computing is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

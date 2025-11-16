@@ -21,3 +21,9 @@ Picture a train station at the edge of a city, where passengers transfer between
 ## Why It Matters
 
 BNNs are critical for integrating legacy systems and supporting scalable, secure enterprise networks.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

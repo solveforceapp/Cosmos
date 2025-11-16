@@ -23,3 +23,9 @@ ASICs offer unmatched performance for their intended tasks, but they lack flexib
 ## Why It Matters
 
 ASICs drive innovation in electronics, enabling new products and capabilities that would be impossible with generic hardware. They are the silent engines behind many of today’s technological marvels.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

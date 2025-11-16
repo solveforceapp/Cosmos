@@ -19,3 +19,9 @@ Imagine a team of relay runners passing the baton to cover every corner of a rac
 ## Why It Matters
 
 DAS enables reliable wireless communication in challenging environments, supporting modern life and safety.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

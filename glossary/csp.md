@@ -21,3 +21,9 @@ Picture a tech-savvy butler who manages all your digital services, ensuring ever
 ## Why It Matters
 
 CSPs accelerate cloud adoption, making advanced technology accessible and manageable for everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

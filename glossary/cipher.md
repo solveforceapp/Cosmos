@@ -21,3 +21,9 @@ Picture a treasure map written in invisible ink, only revealed when held over a 
 ## Why It Matters
 
 Ciphers are the guardians of privacy and security in the digital age, enabling safe communication and commerce.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

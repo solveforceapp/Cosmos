@@ -25,3 +25,9 @@ The energy grid is a symbol of connectivity, empowerment, and transformation. It
 ## Conclusion
 
 The energy grid is the enabler of the digital age. It is the principle that connects, orchestrates, and empowers systems in the cloud era. In the Cosmos framework, the energy grid is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

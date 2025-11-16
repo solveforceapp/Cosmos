@@ -19,3 +19,9 @@ Imagine a superhighway for information, where cars (data) travel at lightning sp
 ## Why It Matters
 
 Broadband is essential for economic growth, education, and innovation. It connects people, businesses, and communities, driving progress in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

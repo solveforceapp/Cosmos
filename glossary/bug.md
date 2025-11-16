@@ -19,3 +19,9 @@ Imagine a mischievous gremlin hiding in your computer, causing programs to misbe
 ## Why It Matters
 
 Bugs impact the safety, security, and satisfaction of users. Managing and fixing bugs is essential for building trustworthy, high-quality technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a fleet of ships sailing the world’s oceans, carrying messages and pac
 ## Why It Matters
 
 Carriers make modern life possible, connecting people, businesses, and ideas around the globe.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

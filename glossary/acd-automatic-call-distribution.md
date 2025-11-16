@@ -23,3 +23,9 @@ Picture a magical switchboard operated by a team of speedy elves. Each time a ca
 ## Why It Matters
 
 Automatic Call Distribution is vital for organizations that value customer satisfaction and operational efficiency. It reduces caller frustration, boosts agent productivity, and provides actionable insights for continuous improvement. As customer expectations rise and communication channels multiply, ACD systems continue to evolve, integrating with chat, email, and social media to deliver a unified, responsive customer experience.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

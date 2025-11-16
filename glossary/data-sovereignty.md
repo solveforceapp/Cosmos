@@ -21,3 +21,9 @@ Picture a border guard checking every file’s paperwork before letting it cross
 ## Why It Matters
 
 Data sovereignty shapes the global flow of information and the future of digital rights.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

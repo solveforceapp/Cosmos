@@ -37,3 +37,9 @@ Recursion offers powerful tools for modeling, analysis, and design, but also pos
 ## Conclusion
 
 Recursion laws reveal the deep unity of structure and process across disciplines. They enable the emergence of complexity, the automation of reasoning, and the evolution of intelligence. In the Cosmos framework, recursion is both a principle of design and a source of creativity, supporting the construction of systems that are robust, adaptive, and open-ended.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

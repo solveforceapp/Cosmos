@@ -19,3 +19,9 @@ Imagine sending an invitation to every house in a neighborhood with a single let
 ## Why It Matters
 
 Broadcast addresses enable efficient, scalable communication in digital networks. They are essential for building dynamic, responsive systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

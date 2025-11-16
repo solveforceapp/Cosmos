@@ -25,3 +25,9 @@ Fiber internet is a symbol of speed, clarity, and connection. It appears in the 
 ## Conclusion
 
 Fiber internet is the enabler of the digital age. It is the principle that connects, orchestrates, and empowers systems in the Cosmos. In the SolveForce framework, fiber internet is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

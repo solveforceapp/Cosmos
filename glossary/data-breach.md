@@ -21,3 +21,9 @@ Picture a digital cat burglar sneaking through firewalls to snatch valuable data
 ## Why It Matters
 
 Data breaches highlight the importance of strong security and vigilance in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

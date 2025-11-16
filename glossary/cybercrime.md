@@ -21,3 +21,9 @@ Picture a cyber detective tracking down digital footprints to catch a virtual vi
 ## Why It Matters
 
 Cybercrime is a growing threat, requiring vigilance, education, and cooperation to combat.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

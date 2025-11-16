@@ -19,3 +19,9 @@ Imagine a fence dividing two yards—one side is the provider’s, the other is 
 ## Why It Matters
 
 Demarcation points define ownership, responsibility, and support, making network management more efficient and transparent.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

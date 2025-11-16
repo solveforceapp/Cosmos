@@ -21,3 +21,9 @@ Picture a magical telephone that lets you chat with friends while sending and re
 ## Why It Matters
 
 ADSL played a pivotal role in the digital revolution, making affordable, high-speed internet accessible to the masses. Even as newer technologies take over, ADSL’s legacy lives on in the connected world it helped create.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

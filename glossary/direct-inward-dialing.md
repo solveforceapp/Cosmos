@@ -19,3 +19,9 @@ Imagine a hotel where every guest room has its own phone number, but all calls c
 ## Why It Matters
 
 DID increases efficiency, flexibility, and professionalism in business communications.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

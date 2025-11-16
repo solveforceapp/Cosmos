@@ -21,3 +21,9 @@ Picture a friendly doorman who always greets you by name and knows your favorite
 ## Why It Matters
 
 Cookies make the web more convenient and personalized, but also raise important privacy considerations.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

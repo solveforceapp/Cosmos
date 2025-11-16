@@ -19,3 +19,9 @@ Imagine a superhighway where cars travel ten times faster than before, making co
 ## Why It Matters
 
 Gigabit Ethernet powers the fast, reliable networks that drive business, education, and entertainment in the digital era.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a library where readers request books, and the librarian fetches them fr
 ## Why It Matters
 
 Client-server architecture powers the digital services we rely on every day, from web browsing to online banking.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

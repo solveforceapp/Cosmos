@@ -19,3 +19,9 @@ Imagine a traffic cop directing cars between two neighborhoods, ensuring only th
 ## Why It Matters
 
 Bridges are essential for building flexible, efficient, and secure networks. They enable growth, adaptation, and collaboration in digital environments.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

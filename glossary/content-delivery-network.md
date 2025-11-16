@@ -21,3 +21,9 @@ Picture a team of digital messengers racing across the globe, making sure you ne
 ## Why It Matters
 
 CDNs make the internet faster, safer, and more reliable for everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

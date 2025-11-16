@@ -19,3 +19,9 @@ Imagine a secret tunnel under a city, letting you travel between distant places 
 ## Why It Matters
 
 GRE tunnels expand connectivity, enhance security, and support innovation in networking.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

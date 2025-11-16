@@ -21,3 +21,9 @@ Picture a movie villain who uses gadgets and cunning to break into secret vaults
 ## Why It Matters
 
 Understanding black hat hacking is crucial for building effective defenses and promoting responsible use of technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

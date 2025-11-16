@@ -19,3 +19,9 @@ Imagine a security service that follows you everywhere, guarding your data wheth
 ## Why It Matters
 
 FWaaS enables agile, resilient, and secure networking in a cloud-first world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

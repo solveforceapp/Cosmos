@@ -21,3 +21,9 @@ Picture a conductor leading an orchestra of phones, ensuring every note is playe
 ## Why It Matters
 
 Call management empowers organizations to communicate effectively, control expenses, and deliver better service.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

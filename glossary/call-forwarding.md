@@ -21,3 +21,9 @@ Picture a magical switchboard that instantly connects callers to you, whether yo
 ## Why It Matters
 
 Call forwarding keeps people and organizations connected, supporting productivity and service excellence.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

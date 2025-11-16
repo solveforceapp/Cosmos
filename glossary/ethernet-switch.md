@@ -19,3 +19,9 @@ Imagine a skilled traffic cop who directs each car to the right street, avoiding
 ## Why It Matters
 
 Ethernet switches enable fast, reliable, and scalable networking, supporting digital transformation and collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

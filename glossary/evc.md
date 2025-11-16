@@ -19,3 +19,9 @@ Imagine a private express lane on a busy highway, reserved just for your company
 ## Why It Matters
 
 EVCs enable reliable, high-performance networking for modern enterprises.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

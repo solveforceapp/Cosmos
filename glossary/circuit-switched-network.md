@@ -21,3 +21,9 @@ Picture a red carpet rolled out just for you, and no one else can walk on it unt
 ## Why It Matters
 
 Circuit-switched networks set the stage for global voice communication and still influence how we design reliable networks today.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

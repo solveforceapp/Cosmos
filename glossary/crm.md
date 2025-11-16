@@ -21,3 +21,9 @@ Picture a friendly concierge who remembers every guest’s preferences and ensur
 ## Why It Matters
 
 CRM transforms customer relationships into lasting partnerships, fueling business success in a competitive world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

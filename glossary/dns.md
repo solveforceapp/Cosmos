@@ -19,3 +19,9 @@ Imagine asking a librarian for a book by title, and they instantly provide the s
 ## Why It Matters
 
 DNS makes the internet usable, scalable, and secure. It is essential for connectivity and digital identity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a control panel with colorful buttons and levers, or a digital playgroun
 ## Why It Matters
 
 GUIs democratize technology, making it usable, enjoyable, and productive for everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a library catalog where each book has attributes like title, author, gen
 ## Why It Matters
 
 Attributes bring structure and meaning to data, making it possible to organize, analyze, and act on information effectively. They are the building blocks of knowledge, enabling smarter decisions and better outcomes.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

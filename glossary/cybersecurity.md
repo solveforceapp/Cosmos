@@ -21,3 +21,9 @@ Picture a superhero team defending a city from digital villains, always ready to
 ## Why It Matters
 
 Cybersecurity is the foundation of trust and innovation in the digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

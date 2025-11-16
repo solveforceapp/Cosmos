@@ -21,3 +21,9 @@ Picture a magician’s trapdoor on stage, enabling surprise appearances and disa
 ## Why It Matters
 
 Backdoors undermine security and trust in technology. Vigilance, transparency, and strong security practices are essential to defend against them.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

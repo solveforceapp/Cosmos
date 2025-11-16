@@ -19,3 +19,9 @@ Imagine a security checkpoint at every door, verifying each visitor’s identity
 ## Why It Matters
 
 Endpoint security safeguards information, supports productivity, and builds trust in digital environments.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

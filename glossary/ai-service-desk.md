@@ -21,3 +21,9 @@ Picture a friendly robot receptionist at a busy office, greeting every visitor, 
 ## Why It Matters
 
 AI service desks are revolutionizing IT support. They improve user satisfaction, reduce costs, and enable organizations to scale their support operations. As AI technology advances, service desks will become even more capable, proactive, and personalized.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

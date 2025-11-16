@@ -21,3 +21,9 @@ Imagine two friends passing notes in class. Every time one sends a note, the oth
 ## Why It Matters
 
 ACK piggybacking is a small but powerful optimization that keeps networks running smoothly. It reduces unnecessary traffic, conserves bandwidth, and helps ensure that data flows quickly and reliably. In a world where billions of devices are constantly talking, every little efficiency counts!
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

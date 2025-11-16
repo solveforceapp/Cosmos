@@ -21,3 +21,9 @@ Picture a video game where players unlock new levels and abilities as they progr
 ## Why It Matters
 
 Authorization ensures that resources are used appropriately, reducing risk and supporting secure, efficient operations.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

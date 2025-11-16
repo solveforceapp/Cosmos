@@ -21,3 +21,9 @@ Picture a watchdog that barks only when it sees something unusual, keeping the n
 ## Why It Matters
 
 Behavior monitoring strengthens security by catching threats that traditional signature-based tools might miss, supporting a more resilient defense.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

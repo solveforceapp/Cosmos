@@ -19,3 +19,9 @@ Imagine a network of pipes carrying messages between rooms in a building, each m
 ## Why It Matters
 
 Ethernet provides the speed, reliability, and scalability needed for today’s connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

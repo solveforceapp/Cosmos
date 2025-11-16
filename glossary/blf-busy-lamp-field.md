@@ -21,3 +21,9 @@ Picture a spaceship bridge with blinking lights showing the status of every crew
 ## Why It Matters
 
 BLF streamlines communication, reduces wait times, and improves collaboration in busy work environments.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

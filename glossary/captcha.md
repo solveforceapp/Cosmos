@@ -21,3 +21,9 @@ Picture a riddle at the entrance to a secret garden, where only those who solve 
 ## Why It Matters
 
 CAPTCHAs help keep the internet safe and fair, balancing security and usability for everyone.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

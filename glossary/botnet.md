@@ -21,3 +21,9 @@ Picture a puppet master controlling thousands of marionettes, each moving in per
 ## Why It Matters
 
 Botnets are a major threat to cybersecurity, privacy, and the stability of the internet.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a digital compass that always knows where you are, guiding you through c
 ## Why It Matters
 
 GPS connects the world, enhances safety, and enables countless innovations in technology and society.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

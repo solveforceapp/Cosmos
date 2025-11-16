@@ -21,3 +21,9 @@ Picture a small band of rebels using clever tricks to outsmart a mighty empireâ€
 ## Why It Matters
 
 Asymmetric warfare highlights the importance of adaptability, resilience, and innovation in security and defense.
+
+---
+Contact: Cosmos Knowledge Base â€” SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

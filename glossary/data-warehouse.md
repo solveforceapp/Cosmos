@@ -21,3 +21,9 @@ Picture a supercomputer librarian who instantly finds the answer to any question
 ## Why It Matters
 
 Data warehouses turn raw data into actionable insights, driving business success.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

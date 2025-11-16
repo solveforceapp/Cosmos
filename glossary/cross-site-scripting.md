@@ -21,3 +21,9 @@ Picture a magician who slips a hidden message into a newspaper, causing readers 
 ## Why It Matters
 
 XSS undermines trust in web applications, making robust security practices essential for safe online experiences.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a team of robot explorers on Mars, each with its own mission. They commu
 ## Why It Matters
 
 AI agents are revolutionizing technology and society. They enable automation, personalization, and innovation across industries. As AI agents become more capable, they will unlock new possibilities and reshape the way we interact with the world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

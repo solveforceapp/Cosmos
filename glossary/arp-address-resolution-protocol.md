@@ -23,3 +23,9 @@ While ARP is simple and effective, it is vulnerable to attacks like ARP spoofing
 ## Why It Matters
 
 ARP is a foundational building block of networking. Without it, devices couldn’t find or communicate with each other on local networks, making seamless digital communication impossible.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

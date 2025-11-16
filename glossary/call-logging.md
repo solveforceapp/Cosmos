@@ -21,3 +21,9 @@ Picture a super-organized secretary who never forgets a call and always has the 
 ## Why It Matters
 
 Call logging provides transparency, accountability, and insights for better communication management.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

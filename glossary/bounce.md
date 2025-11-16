@@ -21,3 +21,9 @@ Picture a boomerang that always returns if it can’t find its target, carrying 
 ## Why It Matters
 
 Understanding bounces helps maintain effective, reliable communication in the digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

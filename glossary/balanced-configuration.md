@@ -19,3 +19,9 @@ Imagine two friends having a conversation where either can speak up, ask questio
 ## Why It Matters
 
 Balanced configuration empowers networks to be more flexible, resilient, and efficient, meeting the needs of today’s connected world. It is a model for cooperation and shared responsibility.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

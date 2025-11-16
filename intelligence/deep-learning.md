@@ -25,3 +25,9 @@ Deep learning is a symbol of complexity, emergence, and creativity. It appears i
 ## Conclusion
 
 Deep learning is the engine of modern AI. It is the principle that enables perception, adaptation, and transformation in complex systems. In the Cosmos framework, deep learning is both a subject of study and a tool for action, empowering agents to create, shape, and sustain the evolving landscape of knowledge and technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

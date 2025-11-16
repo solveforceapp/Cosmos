@@ -25,3 +25,9 @@ Colocation is a symbol of connectivity, adaptability, and innovation. It appears
 ## Conclusion
 
 Colocation is the enabler of digital transformation. It is the principle that connects, orchestrates, and empowers systems in the cloud era. In the Cosmos framework, colocation is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

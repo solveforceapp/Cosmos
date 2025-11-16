@@ -21,3 +21,9 @@ Picture a superhero with x-ray vision, scanning every email for hidden dangers a
 ## Why It Matters
 
 Anti-spam is a frontline defense in the battle for digital security and productivity. It protects users from scams, malware, and information overload.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

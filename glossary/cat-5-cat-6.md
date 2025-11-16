@@ -21,3 +21,9 @@ Picture a race between two delivery trucks—one on a bumpy road (Cat 5), the ot
 ## Why It Matters
 
 Choosing the right cable ensures fast, reliable communication and supports the demands of modern technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

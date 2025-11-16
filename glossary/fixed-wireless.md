@@ -19,3 +19,9 @@ Imagine a direct beam of internet from a tower to your house, like a spotlight i
 ## Why It Matters
 
 Fixed wireless expands access to high-speed internet, bridging the digital divide and supporting economic growth.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

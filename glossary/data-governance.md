@@ -21,3 +21,9 @@ Picture a traffic cop directing data on a busy highway, preventing accidents and
 ## Why It Matters
 
 Data governance builds trust in data, supporting innovation and compliance.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

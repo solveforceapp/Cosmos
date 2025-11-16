@@ -21,3 +21,9 @@ Picture a multitasking assistant who can talk to two people at once while coordi
 ## Why It Matters
 
 BRI represents a key step in the evolution of digital communication, bridging the gap between analog and broadband technologies.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

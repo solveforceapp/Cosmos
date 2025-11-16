@@ -19,3 +19,9 @@ Imagine firmware as the DNA of a device, containing the instructions for how it 
 ## Why It Matters
 
 Firmware is essential for reliability, security, and innovation in modern technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

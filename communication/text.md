@@ -41,3 +41,9 @@ The proliferation of digital text has created new opportunities and risks. Infor
 ## Conclusion
 
 Text is more than a tool; it is a foundation of civilization and a catalyst for progress. Its evolution reflects the changing needs and aspirations of humanity. In the Cosmos framework, text is both a subject of study and a medium of action, bridging the gap between data and meaning, past and future, human and machine.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a two-lane road—one lane for cars (voice) and one for motorcycles (dat
 ## Why It Matters
 
 DSL brought affordable, always-on internet to millions, bridging the digital divide and enabling the online revolution.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

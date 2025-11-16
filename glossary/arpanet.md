@@ -23,3 +23,9 @@ ARPANET is often called the “mother of the internet.” Its success demonstrat
 ## Why It Matters
 
 ARPANET was the spark that ignited the digital revolution. It transformed how we communicate, learn, and connect, laying the groundwork for the interconnected world we inhabit now.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a two-lane digital highway, where one lane carries your voice and the ot
 ## Why It Matters
 
 BRI was a milestone in the evolution of digital communication, bridging the gap between analog telephony and today’s high-speed networks.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

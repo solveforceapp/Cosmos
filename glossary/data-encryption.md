@@ -21,3 +21,9 @@ Picture a secret code that turns your diary into gibberish, readable only by tho
 ## Why It Matters
 
 Data encryption is the cornerstone of digital privacy and trust.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

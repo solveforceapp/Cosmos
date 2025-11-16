@@ -86,3 +86,9 @@ Every message, whether spoken, written, or transmitted electronically, is compos
 Data is the lifeblood of the cosmos, flowing through every system, enabling knowledge, and driving progress.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

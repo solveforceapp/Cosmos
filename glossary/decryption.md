@@ -19,3 +19,9 @@ Imagine a secret message written in code, only readable by someone with the righ
 ## Why It Matters
 
 Decryption safeguards privacy, trust, and security in the digital world. It is a cornerstone of modern cryptography and cybersecurity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

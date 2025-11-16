@@ -21,3 +21,9 @@ Picture a detective piecing together clues from mountains of evidence, uncoverin
 ## Why It Matters
 
 BI turns information into power, enabling organizations to adapt, innovate, and thrive in a data-driven world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

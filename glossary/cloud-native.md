@@ -21,3 +21,9 @@ Picture a team of chefs in a cloud kitchen, each preparing a dish independently,
 ## Why It Matters
 
 Cloud native unlocks agility, speed, and reliability, powering the next generation of digital experiences.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

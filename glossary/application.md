@@ -23,3 +23,9 @@ Applications come in many forms: desktop, mobile, web, and cloud-based. The rise
 ## Why It Matters
 
 Applications are the engines of the digital age. They empower users, drive productivity, and fuel innovation across every industry, shaping the way we live, work, and play.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

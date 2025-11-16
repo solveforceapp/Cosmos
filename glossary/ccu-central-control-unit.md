@@ -21,3 +21,9 @@ Picture a maestro conducting an orchestra, ensuring every instrument plays in ha
 ## Why It Matters
 
 CCUs are essential for reliable, feature-rich communication in organizations of all sizes.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

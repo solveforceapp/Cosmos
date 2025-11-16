@@ -19,3 +19,9 @@ Imagine a town crier shouting news in the village square, ensuring everyone hear
 ## Why It Matters
 
 Broadcasting enables efficient communication and coordination in digital networks. It is a foundational concept for building connected systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

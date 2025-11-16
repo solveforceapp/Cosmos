@@ -19,3 +19,9 @@ Imagine a computer as a robot, with hardware as its body and software as its bra
 ## Why It Matters
 
 Understanding hardware helps users make smart technology choices and troubleshoot problems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

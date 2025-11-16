@@ -21,3 +21,9 @@ Picture a magical backpack that holds all your belongings, no matter how much yo
 ## Why It Matters
 
 Cloud storage makes data management effortless, secure, and accessible, transforming how we work and live.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

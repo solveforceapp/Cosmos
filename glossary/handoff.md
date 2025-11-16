@@ -19,3 +19,9 @@ Imagine passing a baton in a relay race without dropping it, or switching lanes 
 ## Why It Matters
 
 Handoffs enable mobility, convenience, and reliability in wireless communications.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -59,3 +59,9 @@ The cosmos is layered:
 The cosmos is the ultimate context—the system of systems, the architecture of meaning, and the foundation of all knowledge.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a superhero team that shields your data from every possible threat, day 
 ## Why It Matters
 
 Data protection is the backbone of digital trust and resilience.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

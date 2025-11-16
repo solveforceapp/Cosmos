@@ -19,3 +19,9 @@ Imagine a magic window that lets you peer into any library, store, or theater in
 ## Why It Matters
 
 Browsers are the gateway to the internet, shaping how we discover, share, and create in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

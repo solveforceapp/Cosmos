@@ -30,3 +30,9 @@ Cybersecurity is a symbol of vigilance, adaptability, and collective responsibil
 ## Conclusion
 
 Cybersecurity is the shield of the digital age. It is the principle that protects, sustains, and empowers the Cosmos. In the SolveForce framework, cybersecurity is both a subject of study and a tool for action, guiding the evolution of secure, intelligent, and ethical systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

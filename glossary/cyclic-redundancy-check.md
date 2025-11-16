@@ -21,3 +21,9 @@ Picture a librarian who checks every returned book for missing pages before putt
 ## Why It Matters
 
 CRCs are a simple but powerful tool for reliable communication and storage.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

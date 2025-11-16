@@ -19,3 +19,9 @@ Imagine a security robot patrolling every room in a building, instantly locking 
 ## Why It Matters
 
 EDR strengthens endpoint security, reduces response times, and helps organizations stay ahead of evolving cyber threats.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

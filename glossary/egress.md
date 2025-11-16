@@ -19,3 +19,9 @@ Imagine a security guard checking every package that leaves a building, ensuring
 ## Why It Matters
 
 Managing egress is essential for data security, compliance, and risk management in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

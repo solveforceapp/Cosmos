@@ -21,3 +21,9 @@ Picture a magic shield that blocks only the bad guys, letting everyone else pass
 ## Why It Matters
 
 Blacklists are a frontline defense in cybersecurity, helping organizations stay ahead of evolving threats.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

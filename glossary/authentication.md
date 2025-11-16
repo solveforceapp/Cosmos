@@ -21,3 +21,9 @@ Picture a secret club where only members with the right password or handshake ar
 ## Why It Matters
 
 Authentication safeguards privacy, trust, and the integrity of digital systems in an interconnected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

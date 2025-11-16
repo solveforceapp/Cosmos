@@ -25,3 +25,9 @@ AI is a symbol of creativity, ingenuity, and transformation. It appears in the l
 ## Conclusion
 
 Artificial intelligence is the engine of progress and innovation. It is the principle that enables skill, adaptation, and transformation in complex systems. In the Cosmos framework, AI is both a subject of study and a tool for action, empowering agents to create, shape, and sustain the evolving landscape of knowledge and technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

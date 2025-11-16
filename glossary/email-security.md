@@ -19,3 +19,9 @@ Imagine a vigilant mailroom clerk who inspects every letter for hidden dangers b
 ## Why It Matters
 
 Email security protects sensitive information, maintains trust, and keeps communication channels safe from cyber threats.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

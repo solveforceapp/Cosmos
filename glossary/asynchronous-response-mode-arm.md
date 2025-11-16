@@ -21,3 +21,9 @@ Picture a lively group chat where everyone can jump in with ideas, making the di
 ## Why It Matters
 
 ARM empowers networks to be more interactive, adaptive, and efficient—qualities that are increasingly important in today’s connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

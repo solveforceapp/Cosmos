@@ -21,3 +21,9 @@ Picture a superhero team where each member has a unique code name—"Thunderbolt
 ## Why It Matters
 
 Alpha tagging enhances communication, safety, and efficiency. It turns strings of numbers into meaningful information, helping people and systems work together more effectively.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---
