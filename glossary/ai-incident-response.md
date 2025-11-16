@@ -21,3 +21,9 @@ Picture a team of robot detectives patrolling a city of servers. When they spot 
 ## Why It Matters
 
 AI incident response is transforming cybersecurity and IT operations. It reduces the burden on human analysts, accelerates response times, and helps organizations stay ahead of evolving threats. As digital environments grow more complex, AI will be essential for keeping systems safe, reliable, and resilient.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a team of cyber-knights patrolling the clouds, fending off digital drago
 ## Why It Matters
 
 Cloud security builds trust in cloud adoption, enabling innovation and growth without sacrificing safety.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

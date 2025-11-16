@@ -71,3 +71,9 @@ Language encodes and decodes meaning, allowing:
 Language is the thread that weaves together minds, cultures, and the cosmos itself, enabling meaning, connection, and progress.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

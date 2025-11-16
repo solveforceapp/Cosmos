@@ -21,3 +21,9 @@ Picture a classroom where students teleport between physical desks and virtual w
 ## Why It Matters
 
 Blended learning empowers learners and educators, making education more accessible, effective, and adaptable to changing needs.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

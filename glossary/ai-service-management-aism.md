@@ -21,3 +21,9 @@ Picture a futuristic control room staffed by AI engineers, monitoring every syst
 ## Why It Matters
 
 AISM is reshaping the future of IT service management. It empowers organizations to deliver faster, smarter, and more reliable services, meeting the demands of a digital-first world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

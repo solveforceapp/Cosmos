@@ -37,3 +37,9 @@ Machine cybernetics faces challenges in modeling complexity, ensuring safety, an
 ## Conclusion
 
 Machine cybernetics reveals the deep unity of technology and life. By understanding and harnessing the principles of control, communication, and adaptation, we can build machines that are robust, intelligent, and responsive to the needs of society.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

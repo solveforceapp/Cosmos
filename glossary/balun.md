@@ -19,3 +19,9 @@ Imagine a translator who helps two people speaking different languages communica
 ## Why It Matters
 
 Baluns are essential for building reliable, high-performance networks and media systems, ensuring signals travel cleanly from source to destination. They are the unsung heroes of connectivity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

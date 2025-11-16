@@ -21,3 +21,9 @@ Picture a privacy shield that follows you online, blocking unwanted snoops and a
 ## Why It Matters
 
 Data privacy is a fundamental right in the digital age, shaping how we share and protect information.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

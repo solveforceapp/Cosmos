@@ -21,3 +21,9 @@ Picture a bouncer at a club who lets people in only when there’s enough room t
 ## Why It Matters
 
 CAC protects the user experience, supporting clear, uninterrupted communication in busy networks.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

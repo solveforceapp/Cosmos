@@ -4,6 +4,8 @@
 
 - [About](../about.md)
 - [Index](../index.md)
+- [Site Layout Guidelines](site-layout-guidelines.md)
+- [Contact](includes/contact.md)
 
 ### Communication
 
@@ -445,3 +447,9 @@ Below is a complete, alphabetized list of all glossary terms. Each links directl
 
 
 For detailed topic coverage, see each subfolder under <code>content/</code>.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

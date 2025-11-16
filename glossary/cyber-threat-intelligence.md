@@ -21,3 +21,9 @@ Picture a detective agency that uncovers cybercriminal plots before they unfold,
 ## Why It Matters
 
 CTI empowers organizations to be proactive, not just reactive, in the fight against cyber threats.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

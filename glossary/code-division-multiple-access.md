@@ -21,3 +21,9 @@ Picture a radio station where every DJ plays a different song, but listeners onl
 ## Why It Matters
 
 CDMA revolutionized wireless communication, making mobile networks more efficient and secure.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

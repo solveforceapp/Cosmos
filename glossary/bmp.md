@@ -21,3 +21,9 @@ Picture a coloring book where every page is filled in, pixel by pixel, to create
 ## Why It Matters
 
 BMP laid the foundation for digital imaging, influencing the development of modern graphics and multimedia.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

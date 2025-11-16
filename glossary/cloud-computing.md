@@ -21,3 +21,9 @@ Picture a magical toolbox that always has the right tool for any job, no matter 
 ## Why It Matters
 
 Cloud computing is transforming how we work, innovate, and connect, making technology more accessible and powerful than ever.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

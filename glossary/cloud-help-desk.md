@@ -21,3 +21,9 @@ Picture a team of friendly robots in the cloud, instantly responding to every qu
 ## Why It Matters
 
 Cloud help desks empower organizations to deliver efficient, accessible, and scalable support in a digital-first world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

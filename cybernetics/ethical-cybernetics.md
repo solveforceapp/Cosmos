@@ -37,3 +37,9 @@ Ethical cybernetics faces challenges in balancing competing values, managing com
 ## Conclusion
 
 Ethical cybernetics bridges the gap between technology and values. By embedding ethical principles in the design and governance of cybernetic systems, we can create a future that is intelligent, just, and humane.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

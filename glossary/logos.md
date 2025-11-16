@@ -33,3 +33,9 @@ As the creative principle, logos is the source of innovation, discovery, and tra
 ## Conclusion
 
 Logos is the thread that weaves together reason, language, and law. It is the origin of order, the source of meaning, and the catalyst for creation. In the Cosmos framework, logos is both a subject of study and a tool for action, guiding the evolution of knowledge, intelligence, and the universe itself.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

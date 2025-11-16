@@ -87,3 +87,9 @@ MPLS and VPNs symbolize trust, connection, and adaptability. They appear in the 
 ## Conclusion
 
 MPLS and VPNs are essential tools for building the modern digital enterprise. They provide the secure, reliable, and scalable connectivity needed to support innovation, collaboration, and growth. In the Cosmos framework, MPLS and VPNs are both subjects of study and instruments of action, guiding the evolution of infrastructure, knowledge, and intelligent systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a digital passport that proves your identity every time you enter a secu
 ## Why It Matters
 
 Digital certificates build trust, prevent fraud, and enable secure transactions in the digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

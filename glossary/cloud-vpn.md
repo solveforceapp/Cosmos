@@ -21,3 +21,9 @@ Picture a cloak of invisibility for your internet traffic, shielding it from pry
 ## Why It Matters
 
 Cloud VPNs enable secure, flexible connectivity in a world where work happens everywhere.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

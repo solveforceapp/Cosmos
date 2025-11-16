@@ -21,3 +21,9 @@ Picture a busy intersection where cars yield and take turns based on a random dr
 ## Why It Matters
 
 Backoff is a simple yet powerful tool for managing competition and ensuring fairness in digital communication. It keeps networks running smoothly, even under heavy load.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a digital watchdog that barks whenever someone tries to sneak out secret
 ## Why It Matters
 
 DLP is a critical defense against data breaches and regulatory penalties.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

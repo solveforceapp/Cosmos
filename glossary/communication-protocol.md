@@ -21,3 +21,9 @@ Picture a dance where everyone knows the steps, so no one misses a beat, no matt
 ## Why It Matters
 
 Communication protocols are the glue that holds the digital world together, making seamless connectivity possible.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

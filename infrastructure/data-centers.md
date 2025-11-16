@@ -25,3 +25,9 @@ Data centers are a symbol of connectivity, resilience, and innovation. They appe
 ## Conclusion
 
 Data centers are the enablers of the digital age. They are the principle that connects, orchestrates, and empowers systems in the cloud era. In the Cosmos framework, data centers are both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

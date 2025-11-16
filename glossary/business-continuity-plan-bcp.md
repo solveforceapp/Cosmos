@@ -21,3 +21,9 @@ Picture a superhero team with a plan for every disaster, ensuring the city keeps
 ## Why It Matters
 
 BCPs safeguard organizations against the unexpected, supporting resilience and long-term success.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

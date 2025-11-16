@@ -19,3 +19,9 @@ Imagine a single express train that branches off to deliver passengers to every 
 ## Why It Matters
 
 GPON brings affordable, high-speed connectivity to communities, driving digital transformation and economic growth.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

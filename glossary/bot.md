@@ -21,3 +21,9 @@ Picture a swarm of helpful robots cleaning your house, but watch out—some migh
 ## Why It Matters
 
 Bots shape the digital landscape, for better or worse. Understanding their roles helps us harness their power and defend against their risks.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

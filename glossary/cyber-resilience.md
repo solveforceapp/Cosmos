@@ -21,3 +21,9 @@ Picture a superhero team that bounces back from every setback, always ready for 
 ## Why It Matters
 
 Cyber resilience is the foundation of trust and stability in the digital era.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

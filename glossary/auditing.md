@@ -19,3 +19,9 @@ Imagine a detective reviewing evidence to solve a case—auditing uncovers the t
 ## Why It Matters
 
 Auditing builds trust, transparency, and resilience in organizations, helping them meet legal obligations and protect valuable assets. It is a cornerstone of good governance and risk management.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

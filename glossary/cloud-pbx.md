@@ -21,3 +21,9 @@ Picture a team of operators floating on clouds, effortlessly connecting calls an
 ## Why It Matters
 
 Cloud PBX modernizes business communication, supporting agility and customer satisfaction in a digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -25,3 +25,9 @@ Within the SolveForce knowledge system, "cosmos" retains its classical connotati
 ## Conclusion
 
 The word "cosmos" encapsulates humanity’s enduring fascination with order, beauty, and the laws that govern existence. Its etymology traces a journey from the adornment of individuals to the structure of the universe, from myth and philosophy to science and technology. In every era, the cosmos has served as a symbol of the quest for understanding, integration, and transcendence.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

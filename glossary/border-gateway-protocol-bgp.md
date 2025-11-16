@@ -21,3 +21,9 @@ Picture a postal system where every post office shares maps and shortcuts, makin
 ## Why It Matters
 
 BGP is the glue that holds the internet together, enabling billions of devices to communicate seamlessly across the world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

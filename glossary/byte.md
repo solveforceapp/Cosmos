@@ -21,3 +21,9 @@ Picture a chef who combines 8 secret ingredients to create a unique flavor, with
 ## Why It Matters
 
 Bytes are the universal language of computers, enabling the storage and exchange of information in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

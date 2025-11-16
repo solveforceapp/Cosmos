@@ -21,3 +21,9 @@ Picture a group of friends leaving voice messages for each other, responding whe
 ## Why It Matters
 
 Asynchronous communication powers the flexibility and scalability of modern networks and applications.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

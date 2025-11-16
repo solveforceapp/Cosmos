@@ -19,3 +19,9 @@ Imagine a friendly operator saying, “I’m here and ready to connect you!” e
 ## Why It Matters
 
 Dial tones are a simple but effective way to communicate system status, improving user experience and confidence in technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

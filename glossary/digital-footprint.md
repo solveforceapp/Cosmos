@@ -19,3 +19,9 @@ Imagine walking on a beach, leaving footprints in the sand that anyone can follo
 ## Why It Matters
 
 Digital footprints affect privacy, reputation, and security. Being aware of your footprint helps you control your digital identity and protect your information.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

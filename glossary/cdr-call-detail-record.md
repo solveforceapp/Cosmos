@@ -21,3 +21,9 @@ Picture a detective’s notebook, filled with clues about every conversation in 
 ## Why It Matters
 
 CDRs provide transparency, accountability, and insights for better communication and business decisions.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

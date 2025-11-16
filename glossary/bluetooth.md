@@ -21,3 +21,9 @@ Picture a dance floor where every device finds its perfect partner and moves in 
 ## Why It Matters
 
 Bluetooth powers the wireless revolution, connecting people and technology in new and creative ways.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

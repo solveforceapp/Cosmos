@@ -29,3 +29,9 @@ Ether is a symbol of connection, potential, and transformation. It appears in ar
 ## Conclusion
 
 Ether is the unseen thread that weaves together the fabric of reality. It is the carrier of intent, the enabler of interaction, and the foundation for connectivity. In the Cosmos framework, ether is both a concept and a tool, guiding the design of systems that are robust, adaptive, and open to the possibilities of the future.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

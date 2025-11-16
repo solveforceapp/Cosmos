@@ -21,3 +21,9 @@ Picture a time machine that lets you restore your computer to any point in the p
 ## Why It Matters
 
 Data backup is the last line of defense against data loss, ensuring peace of mind in a digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a recipe written in a secret language, useless to anyone except the chef
 ## Why It Matters
 
 Ciphertext is the shield that keeps our secrets safe, forming the backbone of digital security.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

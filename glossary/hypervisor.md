@@ -19,3 +19,9 @@ Imagine a hotel where each guest has a private suite, or a stage where many acto
 ## Why It Matters
 
 Hypervisors drive efficiency, flexibility, and innovation in IT infrastructure.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

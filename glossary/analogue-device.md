@@ -21,3 +21,9 @@ Picture a sculptor shaping clay by hand, feeling every curve and texture. Analog
 ## Why It Matters
 
 Analogue devices are a bridge between the physical and digital worlds. They remind us of the roots of technology and the enduring value of simplicity and authenticity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a superhero team guarding every entrance to a fortress, each with a uniq
 ## Why It Matters
 
 EPP reduces risk, streamlines security operations, and protects critical assets from cyberattacks.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

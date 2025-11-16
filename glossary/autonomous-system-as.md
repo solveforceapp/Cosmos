@@ -21,3 +21,9 @@ Picture a fleet of ships, each with its own captain and crew, navigating the sea
 ## Why It Matters
 
 Understanding ASes is key to grasping how the internet works, evolves, and remains robust in the face of change.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

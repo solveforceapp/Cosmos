@@ -21,3 +21,9 @@ Picture a secret recipe written in a special code. Only those who know the secre
 ## Why It Matters
 
 AES is the gold standard for encryption. It enables secure commerce, private communication, and the protection of personal and national secrets. As cyber threats evolve, AES remains a critical tool in the ongoing battle to keep information safe.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

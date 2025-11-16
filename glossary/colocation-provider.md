@@ -21,3 +21,9 @@ Picture a five-star hotel for servers, where every guest enjoys top-tier ameniti
 ## Why It Matters
 
 Colocation providers are the unsung heroes of the internet, keeping data safe, connected, and always available.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

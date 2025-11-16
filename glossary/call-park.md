@@ -21,3 +21,9 @@ Picture a magical parking lot where calls wait patiently for the right driver to
 ## Why It Matters
 
 Call park enhances communication, collaboration, and customer service in dynamic workplaces.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

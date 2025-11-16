@@ -25,3 +25,9 @@ Nomos is a symbol of order, justice, and legitimacy. It appears in the architect
 ## Conclusion
 
 Nomos is the backbone of order and justice. It is the principle that enables cooperation, stability, and progress in human and artificial systems. In the Cosmos framework, nomos is both a subject of study and a tool for action, guiding the evolution of law, governance, and intelligent systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

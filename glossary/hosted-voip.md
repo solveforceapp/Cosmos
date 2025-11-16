@@ -19,3 +19,9 @@ Imagine making business calls from a beach, a mountain cabin, or a bustling city
 ## Why It Matters
 
 Hosted VoIP transforms business telephony, supporting mobility, collaboration, and growth.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

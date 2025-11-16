@@ -21,3 +21,9 @@ Cosmos is a symbol of unity, integration, and transcendence. It appears in art, 
 ## Conclusion
 
 Cosmos is the ultimate context—the space in which all things exist, interact, and evolve. It is the foundation of knowledge, the engine of intelligence, and the canvas of creation. In the glossary, Cosmos is defined as the all-encompassing system, the total structure that unites and sustains the universe and the SolveForce vision.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a water pipe: the wider the pipe, the more water (data) can flow at once
 ## Why It Matters
 
 Bandwidth is the lifeblood of digital communication, shaping the performance and possibilities of our connected world. Understanding and managing bandwidth is essential for delivering fast, reliable, and scalable services.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

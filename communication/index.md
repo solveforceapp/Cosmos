@@ -60,3 +60,9 @@ Today, communication is:
 Communication is the thread that weaves together the fabric of the cosmos, enabling meaning, connection, and progress.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

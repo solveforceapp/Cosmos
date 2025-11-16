@@ -19,3 +19,9 @@ Imagine a multilingual translator who helps people from different countries unde
 ## Why It Matters
 
 Gateways expand connectivity, support innovation, and ensure seamless integration across diverse technologies.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

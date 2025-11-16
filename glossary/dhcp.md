@@ -19,3 +19,9 @@ Imagine a hotel concierge assigning rooms to guests as they arrive, ensuring no 
 ## Why It Matters
 
 DHCP is essential for efficient, automated network operations. It reduces manual configuration and supports the growth of connected devices.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

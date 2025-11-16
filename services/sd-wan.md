@@ -62,3 +62,9 @@ SD-WAN symbolizes adaptability, intelligence, and collaboration. It appears in t
 ## Conclusion
 
 SD-WAN is a catalyst for digital transformation, enabling organizations to build networks that are agile, secure, and cloud-ready. In the Cosmos framework, SD-WAN is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration in a connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

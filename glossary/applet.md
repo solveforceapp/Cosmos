@@ -21,3 +21,9 @@ Picture a tiny robot living inside your browser, ready to help you solve puzzles
 ## Why It Matters
 
 Applets paved the way for interactive web applications, inspiring the development of modern web standards and tools.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

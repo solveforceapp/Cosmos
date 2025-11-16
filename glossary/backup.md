@@ -19,3 +19,9 @@ Imagine a safety net that catches you if you fall, or a time machine that lets y
 ## Why It Matters
 
 Backups are the ultimate insurance policy for your digital life, protecting memories, work, and critical operations from the unexpected. They are essential for resilience in a digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

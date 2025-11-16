@@ -21,3 +21,9 @@ Picture a secret vault on a remote island, accessible only by boat. No phone lin
 ## Why It Matters
 
 Air gaps are a last line of defense for the most sensitive systems. They help prevent catastrophic breaches and ensure the integrity of critical operations, even in the face of sophisticated cyber threats.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

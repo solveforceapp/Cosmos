@@ -19,3 +19,9 @@ Imagine a digital courier service that picks up packages from your computer and 
 ## Why It Matters
 
 FTP laid the foundation for file sharing and collaboration on the internet, enabling global connectivity.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

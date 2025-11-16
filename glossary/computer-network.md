@@ -21,3 +21,9 @@ Picture a spider weaving a network of threads, connecting every corner of its do
 ## Why It Matters
 
 Computer networks are the foundation of modern life, enabling communication, innovation, and progress.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

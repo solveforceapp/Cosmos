@@ -21,3 +21,9 @@ Picture an access point as a friendly doorman at a grand hotel. Guests (devices)
 ## Why It Matters
 
 Access points are essential for modern connectivity. They enable mobility, flexibility, and collaboration, supporting everything from remote work and online learning to smart homes and the Internet of Things (IoT). As wireless technology evolves, access points continue to play a critical role in delivering fast, secure, and reliable network access—keeping us all connected, wherever we go.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

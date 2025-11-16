@@ -19,3 +19,9 @@ Imagine a series of light switches turning on and off to send messages in Morse 
 ## Why It Matters
 
 Digital signals make technology faster, more reliable, and more versatile. They are the language of the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a painter mixing colors on a canvas, blending shades seamlessly. Analog 
 ## Why It Matters
 
 Analog signals are the building blocks of early communication and entertainment technology. Understanding them provides insight into the origins and evolution of modern digital systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

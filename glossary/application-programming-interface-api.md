@@ -21,3 +21,9 @@ Picture a set of Lego bricks, each with connectors that let you build anything y
 ## Why It Matters
 
 APIs drive innovation, collaboration, and efficiency in technology. They empower developers to build on existing platforms and create new value for users.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a superhero team that springs into action whenever disaster strikes, res
 ## Why It Matters
 
 Disaster recovery safeguards organizations against loss, disruption, and chaos, ensuring resilience and peace of mind.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

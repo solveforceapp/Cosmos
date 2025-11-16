@@ -25,3 +25,9 @@ Linguistic recursion is a symbol of creativity, emergence, and complexity. It ap
 ## Conclusion
 
 Linguistic recursion is the engine of language and meaning. It is the principle that enables the creation, linking, and transformation of knowledge in complex systems. In the Cosmos framework, linguistic recursion is both a subject of study and a tool for action, empowering agents to create, shape, and sustain the evolving landscape of knowledge and technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

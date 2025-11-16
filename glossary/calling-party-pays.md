@@ -21,3 +21,9 @@ Picture a taxi ride where only the passenger who hails the cab pays the fare, wh
 ## Why It Matters
 
 CPP affects telecom economics, user habits, and competition, making it a key concept in global communications.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

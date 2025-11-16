@@ -21,3 +21,9 @@ Picture a bouncer at an exclusive club who inspects every guest, checks their cr
 ## Why It Matters
 
 Bastion hosts are a vital defense in depth strategy, enabling secure, auditable access to critical systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

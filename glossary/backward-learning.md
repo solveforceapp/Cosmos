@@ -19,3 +19,9 @@ Imagine a delivery driver who remembers the best route home after dropping off a
 ## Why It Matters
 
 Backward learning enables smarter, more responsive networks that can handle the demands of modern communication. It is a key technique for building adaptive, efficient, and robust digital infrastructure.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

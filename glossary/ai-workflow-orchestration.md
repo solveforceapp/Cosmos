@@ -21,3 +21,9 @@ Picture a team of robot chefs in a smart kitchen, each preparing a different dis
 ## Why It Matters
 
 AI workflow orchestration is transforming the way organizations operate. It enables agility, scalability, and resilience, helping businesses stay competitive in a fast-paced digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a superhero team defending a city from digital villains, always ready to
 ## Why It Matters
 
 Computer security safeguards our digital world, enabling safe innovation and trust in technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

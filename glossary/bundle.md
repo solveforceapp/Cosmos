@@ -19,3 +19,9 @@ Imagine a lunchbox filled with your favorite foods, all packed together for a si
 ## Why It Matters
 
 Bundles make technology and services more accessible, affordable, and convenient. They help providers differentiate their offerings and build lasting customer relationships.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

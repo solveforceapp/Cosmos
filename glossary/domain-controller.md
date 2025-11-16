@@ -19,3 +19,9 @@ Imagine a security guard at the entrance to a building, checking IDs and grantin
 ## Why It Matters
 
 Domain controllers protect networks from unauthorized access and streamline IT management.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

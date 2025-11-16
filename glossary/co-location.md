@@ -21,3 +21,9 @@ Picture a hotel for servers, where every guest gets VIP treatment and round-the-
 ## Why It Matters
 
 Colocation delivers reliability, scalability, and peace of mind for mission-critical IT operations.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

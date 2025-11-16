@@ -21,3 +21,9 @@ Picture a moviegoer buying a ticket—the client asks for a seat, and the server
 ## Why It Matters
 
 Clients make technology accessible, interactive, and responsive, bridging users and powerful backend systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

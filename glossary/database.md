@@ -19,3 +19,9 @@ Imagine a giant digital library, where every book, page, and word is cataloged f
 ## Why It Matters
 
 Databases turn raw data into actionable knowledge, supporting decision-making, automation, and innovation. They are essential for reliability, scalability, and security in the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

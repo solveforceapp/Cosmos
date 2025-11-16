@@ -19,3 +19,9 @@ Imagine a sign at the entrance to a building, letting visitors know the rules be
 ## Why It Matters
 
 Banners set the tone for digital interactions, promoting transparency, security, and responsible use. They are a simple but powerful tool for communication and compliance.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

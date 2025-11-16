@@ -21,3 +21,9 @@ Picture a dance instructor teaching a new routine. Each move is broken down into
 ## Why It Matters
 
 Understanding algorithms is key to unlocking the power of technology. They enable innovation, efficiency, and problem-solving across every field of human endeavor.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -85,3 +85,9 @@ Welcome to the SolveForce Universal Knowledge Infrastructure. Explore foundation
  - [Satellite](services/satellite.md)
  - [SD-WAN](services/sd-wan.md)
  - [VoIP](services/voip.md)
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

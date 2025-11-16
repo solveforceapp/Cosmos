@@ -19,3 +19,9 @@ Imagine two friends talking on the phone, both able to speak and listen at once 
 ## Why It Matters
 
 Full duplex communication enhances productivity, user experience, and the performance of digital systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

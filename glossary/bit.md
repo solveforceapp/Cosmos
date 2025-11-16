@@ -21,3 +21,9 @@ Picture a mosaic made of black and white tiles, where each tile is a bit, and to
 ## Why It Matters
 
 Bits are the DNA of the digital age, enabling the technology that powers our lives.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -30,3 +30,9 @@ Picture a magical library where each book can only be opened by readers with the
 ## Why It Matters
 
 Access control is a cornerstone of cybersecurity and privacy. It helps organizations comply with regulations, prevent data breaches, and maintain trust with users and customers. As digital environments grow more complex, robust access control becomes ever more critical—ensuring that resources are available to those who need them, and protected from those who don’t.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

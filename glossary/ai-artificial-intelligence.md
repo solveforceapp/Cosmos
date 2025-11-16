@@ -21,3 +21,9 @@ Picture a robot chef that learns your favorite recipes, invents new dishes, and 
 ## Why It Matters
 
 AI is transforming society, economy, and culture. It enables innovation, boosts productivity, and opens new frontiers in science and technology. As AI evolves, it raises important questions about ethics, fairness, and the future of work—making it a subject of fascination and debate for generations to come.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a super-fast train track that brings the internet right to your doorstep
 ## Why It Matters
 
 FTTx is the foundation for next-generation connectivity, enabling innovation and economic growth.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

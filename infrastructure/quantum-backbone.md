@@ -25,3 +25,9 @@ The quantum backbone is a symbol of innovation, resilience, and transformation. 
 ## Conclusion
 
 The quantum backbone is the enabler of the future digital age. It is the principle that connects, orchestrates, and empowers systems in the quantum era. In the Cosmos framework, the quantum backbone is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

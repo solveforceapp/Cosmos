@@ -21,3 +21,9 @@ Picture a magical switchboard operated by invisible hands, connecting every call
 ## Why It Matters
 
 Auto-attendants improve efficiency, professionalism, and customer satisfaction in modern communication systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

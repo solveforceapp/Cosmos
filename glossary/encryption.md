@@ -19,3 +19,9 @@ Imagine sending a secret message in a locked box that only the recipient has the
 ## Why It Matters
 
 Encryption safeguards privacy, builds trust, and enables secure digital interactions across the globe.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

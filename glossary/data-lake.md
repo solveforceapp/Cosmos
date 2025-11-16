@@ -21,3 +21,9 @@ Picture a treasure-filled lagoon where explorers dive for insights and discoveri
 ## Why It Matters
 
 Data lakes unlock the potential of big data, driving innovation and competitive advantage.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

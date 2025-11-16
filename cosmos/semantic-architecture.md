@@ -33,3 +33,9 @@ Building and maintaining semantic architecture is complex. Challenges include sc
 ## Conclusion
 
 Semantic architecture is the key to unlocking the value of information. It transforms raw data into actionable knowledge, supports intelligent interaction, and enables the automation of reasoning. In the Cosmos framework, semantic architecture is both a foundation and a frontier, driving the evolution of knowledge, intelligence, and collaboration.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a superhighway made of glass, where cars (data) travel at the speed of l
 ## Why It Matters
 
 Fiber optic cables enable the fast, reliable, and scalable networks that drive the digital age.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

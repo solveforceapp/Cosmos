@@ -21,3 +21,9 @@ Picture a futuristic city where every building, vehicle, and device is managed b
 ## Why It Matters
 
 Agentic AI is transforming the way we live and work. It enables smarter automation, faster decision-making, and more personalized experiences. As agentic AI evolves, it will play an increasingly central role in shaping the future of technology and society.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

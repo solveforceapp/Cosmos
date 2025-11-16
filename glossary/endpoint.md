@@ -19,3 +19,9 @@ Imagine every phone, tablet, and computer as a unique door into the digital worl
 ## Why It Matters
 
 Endpoints are the foundation of connectivity, productivity, and innovation in the modern world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

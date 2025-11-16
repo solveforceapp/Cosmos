@@ -19,3 +19,9 @@ Imagine a multi-lane highway where each lane is reserved for a different type of
 ## Why It Matters
 
 Bands make modern communication possible, enabling countless devices to share the airwaves without chaos or confusion. They are the invisible lanes that keep our digital world running smoothly.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

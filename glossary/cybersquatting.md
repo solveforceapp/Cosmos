@@ -21,3 +21,9 @@ Picture a digital pirate staking claim to a valuable island, demanding a ransom 
 ## Why It Matters
 
 Cybersquatting undermines trust in the internet and highlights the importance of digital rights and protections.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

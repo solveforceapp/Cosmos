@@ -19,3 +19,9 @@ Imagine a magic pipeline that brings movies, music, and information straight to 
 ## Why It Matters
 
 Broadband connections are the backbone of modern society, enabling innovation, opportunity, and connection for all.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

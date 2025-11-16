@@ -52,3 +52,9 @@ Cyber is a symbol of control, agency, and transformation. It appears in the lang
 ## Conclusion
 
 Cyber is the engine of the digital age. It is the principle that enables steering, adaptation, and governance in complex systems. In the Cosmos framework, cyber is both a subject of study and a tool for action, empowering agents to navigate, shape, and secure the evolving landscape of knowledge and technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

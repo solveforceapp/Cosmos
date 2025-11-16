@@ -21,3 +21,9 @@ Picture a digital janitor who sweeps away old files, keeping your systems tidy a
 ## Why It Matters
 
 Data retention balances operational needs, legal obligations, and privacy concerns.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

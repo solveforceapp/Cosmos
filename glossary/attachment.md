@@ -21,3 +21,9 @@ Picture a carrier pigeon delivering not just a message, but a tiny parcel contai
 ## Why It Matters
 
 Attachments are a cornerstone of modern communication, enabling the seamless exchange of information in a connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

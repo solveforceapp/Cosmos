@@ -21,3 +21,9 @@ Picture a detective with a magnifying glass, following digital footprints and pi
 ## Why It Matters
 
 Activity monitors are a cornerstone of cybersecurity. They provide visibility, accountability, and rapid response to threats, helping organizations and individuals stay one step ahead of attackers in an ever-evolving digital landscape.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

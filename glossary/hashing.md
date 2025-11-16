@@ -19,3 +19,9 @@ Imagine a magical stamp that turns any letter into a unique symbol, or a recipe 
 ## Why It Matters
 
 Hashing secures data, speeds up searches, and underpins trust in digital systems.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

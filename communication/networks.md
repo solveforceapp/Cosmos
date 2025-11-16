@@ -82,3 +82,9 @@ Networks have evolved from:
 Networks are the veins of the cosmos, enabling the circulation of meaning, value, and innovation.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

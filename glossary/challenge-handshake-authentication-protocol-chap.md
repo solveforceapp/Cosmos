@@ -21,3 +21,9 @@ Picture a bouncer who invents a new password for every guest, checking their res
 ## Why It Matters
 
 CHAP is a foundational protocol for secure network access, balancing convenience and protection.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

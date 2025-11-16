@@ -19,3 +19,9 @@ Imagine a crowd of pranksters all calling the same pizza shop at once, jamming t
 ## Why It Matters
 
 DDoS attacks threaten the reliability and security of the internet. Understanding and defending against them is critical for business continuity and public trust.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -19,3 +19,9 @@ Imagine a rainbow highway where each color lane carries a different stream of tr
 ## Why It Matters
 
 DWDM makes high-speed, high-capacity networks possible, driving innovation and connectivity worldwide.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

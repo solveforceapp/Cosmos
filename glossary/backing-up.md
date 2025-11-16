@@ -21,3 +21,9 @@ Picture a time-traveling librarian who makes copies of every book, storing them 
 ## Why It Matters
 
 Backing up is the ultimate insurance policy for your digital life. It protects memories, work, and critical operations from the unexpected.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

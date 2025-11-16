@@ -25,3 +25,9 @@ Within the SolveForce Cosmos, 5G and IoT are the backbone of intelligent agents,
 ## Conclusion
 
 5G and the Internet of Things are the engines of progress and innovation. They are the principles that enable skill, adaptation, and transformation in complex systems. In the Cosmos framework, 5G and IoT are both subjects of study and tools for action, empowering agents to create, shape, and sustain the evolving landscape of knowledge and technology.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

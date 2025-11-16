@@ -19,3 +19,9 @@ Imagine a city’s subway system, where tracks (the backplane) connect stations 
 ## Why It Matters
 
 Backplanes are the unsung heroes of modern electronics, enabling the modular, high-performance systems that power our digital world. They make complex technology more reliable, scalable, and maintainable.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

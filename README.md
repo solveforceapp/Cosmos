@@ -41,3 +41,9 @@ COSMOS is SolveForce's universal knowledge infrastructure—a structured, semant
 
 ---
 For more, see `.github/copilot-instructions.md` for AI authoring rules and `content/index.md` for live navigation.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a secret club where the password is whispered at the door, but the bounc
 ## Why It Matters
 
 Basic authentication is a foundational concept in web security, highlighting the need for stronger, more private methods as technology evolves.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

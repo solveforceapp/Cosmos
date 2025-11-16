@@ -19,3 +19,9 @@ Imagine a virtual receptionist who answers calls from anywhere in the world, or 
 ## Why It Matters
 
 Hosted PBX modernizes business communications, enabling agility, productivity, and customer satisfaction.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

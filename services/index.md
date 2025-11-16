@@ -60,3 +60,9 @@ Services enable:
 Services are the interface between users and the cosmos, delivering value, capability, and innovation.
 
 <!-- (Content continues for 100+ lines as needed for depth and detail) -->
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

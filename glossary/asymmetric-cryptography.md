@@ -21,3 +21,9 @@ Picture a magician who hands out locked boxes to the audience. Anyone can put a 
 ## Why It Matters
 
 Asymmetric cryptography is the foundation of digital trust. It protects privacy, ensures authenticity, and enables secure transactions in a connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

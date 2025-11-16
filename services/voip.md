@@ -71,3 +71,9 @@ VoIP symbolizes connection, innovation, and empowerment. It appears in the desig
 ## Conclusion
 
 VoIP is a catalyst for the future of communication. It enables organizations and individuals to connect, collaborate, and create in new ways. In the Cosmos framework, VoIP is both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration in a connected world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

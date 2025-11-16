@@ -37,3 +37,9 @@ Bio-cybernetics faces challenges in modeling complexity, integrating multi-scale
 ## Conclusion
 
 Bio-cybernetics reveals the deep unity of life and technology. By understanding and harnessing the principles of control, communication, and adaptation, we can build systems that are robust, intelligent, and responsive to the needs of individuals and society.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

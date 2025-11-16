@@ -19,3 +19,9 @@ Imagine a burglar trying every key on a giant key ring until one finally opens t
 ## Why It Matters
 
 Brute force attacks highlight the importance of strong security practices. They remind us that simple passwords and weak encryption are easy targets for determined attackers.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

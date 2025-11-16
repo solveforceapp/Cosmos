@@ -45,3 +45,9 @@ The SolveForce Cosmos is implemented as a digital knowledge base, a semantic net
 ## Conclusion
 
 The Cosmos is the ultimate context—the space in which all things exist, interact, and evolve. It is the foundation of knowledge, the engine of intelligence, and the canvas of creation. In the SolveForce vision, the Cosmos is not a static backdrop, but a living, dynamic system—open, recursive, and ever-expanding.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

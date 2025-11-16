@@ -21,3 +21,9 @@ Picture a digital vending machine that dispenses free snacks to anyone who press
 ## Why It Matters
 
 Anonymous FTP democratized access to information and software, paving the way for today’s open-source and public data movements.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a librarian who memorizes the most popular books, instantly reciting the
 ## Why It Matters
 
 Caching is the secret sauce behind fast, responsive technology, powering everything from smartphones to supercomputers.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

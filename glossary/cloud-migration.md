@@ -21,3 +21,9 @@ Picture a moving crew with jetpacks, effortlessly transporting your data to a fu
 ## Why It Matters
 
 Cloud migration unlocks new possibilities for growth, efficiency, and resilience in a fast-changing world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

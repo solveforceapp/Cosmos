@@ -21,3 +21,9 @@ Picture a superhero IT team with cloud-powered gadgets, swooping in to fix probl
 ## Why It Matters
 
 Cloud ITSM transforms IT from a cost center to a strategic enabler, supporting innovation and business agility.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

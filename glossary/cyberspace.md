@@ -21,3 +21,9 @@ Picture a virtual playground where avatars explore, create, and interact in endl
 ## Why It Matters
 
 Cyberspace is the new frontier of human experience, shaping society, culture, and the economy.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

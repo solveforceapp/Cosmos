@@ -19,3 +19,9 @@ Imagine a relay race where a backup runner is always ready to take over if the f
 ## Why It Matters
 
 Failover ensures business continuity, customer satisfaction, and resilience in the face of unexpected events.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

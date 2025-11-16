@@ -21,3 +21,9 @@ Picture a single remote control that operates your TV, lights, and music systemâ
 ## Why It Matters
 
 Converged networks pave the way for smarter, more connected organizations.
+
+---
+Contact: Cosmos Knowledge Base â€” SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

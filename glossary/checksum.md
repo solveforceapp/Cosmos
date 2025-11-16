@@ -21,3 +21,9 @@ Picture a chef who tastes a dish before serving it, ensuring every ingredient is
 ## Why It Matters
 
 Checksums are essential for reliable communication and storage, helping keep our digital world accurate and trustworthy.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

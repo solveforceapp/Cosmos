@@ -21,3 +21,9 @@ Picture a magical amulet that glows only when held by its rightful owner, granti
 ## Why It Matters
 
 Authenticators are the gatekeepers of the digital world, balancing convenience and security for users everywhere.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -23,3 +23,9 @@ Picture a high-tech treehouse with multiple levels and secret rooms. The treehou
 ## Why It Matters
 
 Access Control Lists are a cornerstone of cybersecurity. They provide the flexibility to grant or restrict access at a granular level, supporting the principle of least privilege—giving users only the permissions they need, and nothing more. As organizations grow and threats evolve, ACLs help maintain security, compliance, and operational efficiency. Whether you’re managing a personal computer, a corporate network, or a global cloud infrastructure, understanding and using ACLs is key to safeguarding your digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

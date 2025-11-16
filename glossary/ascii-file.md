@@ -21,3 +21,9 @@ Picture a time capsule filled with messages written in plain English, buried for
 ## Why It Matters
 
 ASCII files are the backbone of interoperability in computing. They enable communication, collaboration, and preservation of information across decades and devices.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a conveyor belt where every item is the same size, making sorting and de
 ## Why It Matters
 
 ATM set the stage for today’s integrated, high-speed networks, demonstrating the power of standardization and efficiency in communication.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

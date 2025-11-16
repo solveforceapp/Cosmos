@@ -21,3 +21,9 @@ Picture a magic phone booth in the cloud, instantly connecting you to anyone, an
 ## Why It Matters
 
 Cloud telephony modernizes business communication, supporting agility and customer satisfaction in a digital world.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

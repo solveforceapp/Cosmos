@@ -19,3 +19,9 @@ Imagine a backup generator that powers your home during a blackout, keeping the 
 ## Why It Matters
 
 DRaaS makes disaster recovery accessible, affordable, and reliable, supporting the modern digital economy.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a digital vending machine that dispenses any technology you need, whenev
 ## Why It Matters
 
 CSPs democratize access to advanced technology, fueling progress and competition in every industry.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

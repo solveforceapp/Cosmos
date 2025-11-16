@@ -25,3 +25,9 @@ Aion’s symbolism is rich and multifaceted. It appears in the cycles of nature,
 ## Conclusion
 
 Aion is the thread that weaves together past, present, and future. It is the pulse of eternity, the engine of cycles, and the guardian of continuity. In the Cosmos framework, Aion is both a principle and a practice, guiding the evolution of systems that endure, adapt, and flourish across the ages.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

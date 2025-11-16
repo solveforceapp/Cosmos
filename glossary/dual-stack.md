@@ -19,3 +19,9 @@ Imagine a bilingual translator who can speak two languages fluently, switching b
 ## Why It Matters
 
 Dual stack ensures the internet remains accessible, scalable, and future-proof during the transition to IPv6.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

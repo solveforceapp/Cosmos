@@ -21,3 +21,9 @@ Picture a magical mailbox that not only delivers letters but also brings you mov
 ## Why It Matters
 
 CPE is the foundation of digital connectivity, empowering users to participate in the global communications ecosystem.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

@@ -21,3 +21,9 @@ Picture a magic pipe that brings both entertainment and information into your li
 ## Why It Matters
 
 Cable modems are a key enabler of the digital lifestyle, connecting millions to the opportunities of the internet.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---

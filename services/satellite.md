@@ -64,3 +64,9 @@ Satellites symbolize vision, connection, and transcendence. They appear in the d
 ## Conclusion
 
 Satellite technology is the backbone of global connectivity and observation. It empowers societies to communicate, navigate, and learn across boundaries. In the Cosmos framework, satellites are both a subject of study and a tool for action, guiding the evolution of infrastructure, knowledge, and intelligent collaboration on a planetary scale.
+
+---
+Contact: Cosmos Knowledge Base — SolveForce  
+Email: contact@solveforce.com  
+For corrections or suggestions, please open an issue in the repository.
+---
